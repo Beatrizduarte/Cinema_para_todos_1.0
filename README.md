@@ -1,2 +1,3 @@
 # Cinema_para_todos_1.0
-Cinema para todos foi um projeto desenvolvido em Linguagem C no meu segundo semestre na faculdade. 
+ 
+Cinema para todos foi um projeto desenvolvido em Linguagem C no meu segundo semestre na faculdade. O objetivo era desenvolver uma bilheteria de cinema com filmes que tivesse em seu tema, questões sociais como racismo, meio ambiente e etc. Esse sistema seria implementado nas cidades de interior por tanto deveria ser de fácil compreensão para aqueles que não estava acostumados a utilizar compras por meio de totem.
